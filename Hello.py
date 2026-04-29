@@ -11,7 +11,7 @@ def is_valid_name(name):
     return isinstance(name, str) and name.strip() != ""
 
 # Test cases
-user_name = "Mark"
+user_name = "Luke"
 empty_name = ""
 none_name = None
 space_name = "   "
