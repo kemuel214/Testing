@@ -1,4 +1,4 @@
-colors = ["Pink", "Red", "Blue"]
+colors = ["Green", "Red", "Blue"]
 
 for color in colors:
     print(color)
